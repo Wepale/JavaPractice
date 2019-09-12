@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DRootExampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-09-12T11:29:45" hostname="P016" time="0.017">
+  <properties/>
+  <testcase name="Tests()" classname="DRootExampleTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
